@@ -10,6 +10,7 @@
 - 👀 Seeking Summer 2025 internships!
 
 ### 🎉 In My Free Time...
+- 💻 Designing and creating my [personal website](https://www.owen-wong.com/), 3D enhancements coming soon!!
 - 💀 Leetcoding
 - 🍳 Cooking up new dishes
 - 🥊 Practicing Muay Thai
