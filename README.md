@@ -7,7 +7,6 @@
 ### 📜 Bio
 - 🏫 Studying CS at the University of Waterloo
 - 🧑‍💻 Passionate about full-stack development, frontend engineering, and mobile development
-- 👀 Seeking Summer 2025 internships!
 
 ### 🎉 In My Free Time...
 - 💻 Designing and creating my [personal website](https://www.owen-wong.com/), 3D enhancements coming soon!!
